@@ -8,7 +8,7 @@ The data is under processing for user anonymity.
 # Cite
 If you like our paper, please cite
 ```
-@inproceedings{zhao2020caper,
+@inproceedings{zhao2020kbs,
   title={Personalized Location Recommendation by Fusing Sentimental and Spatial Context},
   author={Zhao, Guoshuai and Lou, Peiliang and Qian, Xueming and Hou, Xingsong},
   journal={Knowledge-Based Systems},
